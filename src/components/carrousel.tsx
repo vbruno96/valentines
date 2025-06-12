@@ -7,7 +7,7 @@ import img06 from '../assets/06.jpg'
 
 import { Autoplay } from 'swiper/modules'
 import { Swiper, SwiperSlide } from 'swiper/react'
-import 'swiper/css'
+import 'swiper/swiper-bundle.css'
 
 const images = [img01, img02, img03, img04, img05, img06]
 
